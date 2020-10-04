@@ -1,3 +1,4 @@
+<option>Select</option>
 <option>Adygey</option>
 <option>Altai</option>
 <option>Buryat</option>
